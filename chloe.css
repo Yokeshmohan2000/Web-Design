@@ -1,0 +1,74 @@
+body{
+     background-color: rgb(241, 54, 157);
+     margin-top: 10px;
+}
+.top{
+    margin-left: 20px;
+}
+h1{
+    color: white;
+}
+#button{
+    margin-top: 30px;
+}
+ li{
+    list-style-type: none;
+    margin-top: 20px;
+    width: 250px;
+    height: 30px;
+    box-shadow: rgb(51, 2, 2) 5px 5px 0px 0px ;
+    
+}
+#list1{
+    
+    background-color: white;
+
+    
+}
+#list2{
+    
+    background-color: white;
+    
+}
+#list3{
+
+    background-color: white;
+    
+}
+#list4{
+    
+    background-color: white;
+    
+}
+.logo{
+    margin-top: 30px;
+}
+i{
+    background-color: white;
+    color: #b61a5b;
+    padding: 10px;
+    margin-left: 30px;
+    
+}
+#twitter{
+   border-radius: 20px;
+   
+}
+#insta{
+    border-radius: 20px; 
+    
+ }
+ #picon{
+    border-radius: 20px; 
+    
+ }
+ #tiktok{
+    border-radius: 20px; 
+    
+ }
+ .foot{
+    margin-left: 40px;
+    margin-top: 40px;
+    font-size: small;
+    
+ }
